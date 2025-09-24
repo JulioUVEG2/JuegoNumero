@@ -12,6 +12,7 @@ public class JuegoNumero {
 
         System.out.println("=== JUEGO DEL NÚMERO SECRETO ===");
         System.out.println("He pensado un número entre 1 y 100.");
+        System.out.println("Nuevo mensaje");
         System.out.println("¡Intenta adivinarlo!");
 
         do {
@@ -32,5 +33,6 @@ public class JuegoNumero {
 
         sc.close();
         System.out.println("Gracias por jugar.");
+        System.out.println(":)");
     }
 }

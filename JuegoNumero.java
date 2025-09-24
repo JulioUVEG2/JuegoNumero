@@ -15,6 +15,7 @@ public class JuegoNumero {
         System.out.println("¡Intenta adivinarlo!");
 
         do {
+            System.out.print("###############");
             System.out.print("Tu intento: ");
             intento = sc.nextInt();
             contador++;
